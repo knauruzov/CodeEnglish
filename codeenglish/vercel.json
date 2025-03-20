@@ -1,4 +1,0 @@
-{
-  "outputDirectory": "codeenglish/.next",
-  "buildCommand": "cd codeenglish && npm run build"
-} 
